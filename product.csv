@@ -1,0 +1,5 @@
+﻿Ref_Key,ProductID,ProductName,Category,StockQuantity
+1,101,    Laptop,electronics,10
+2,102,smartphone    ,electronics,20
+3,103,Laptop,electronics,15
+4,104,almirah,furniture,5
