@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,StockQuantity
+101,Laptop?,Electr onics,10
+102,Smartphone,Electronics,20
+103,Tablet?,Electronics,15
+104,Television,Electr  onics,8
+105,Refrigerator,Appliances,12
+106,Washing Machine,Applia  nces,7
+107,Clothing?,Apparel,30
+108,Shoes,Apparel,25
+109,Books,Boo  ks,50
+110,Toys,Toys,40
